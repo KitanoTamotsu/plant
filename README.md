@@ -1,4 +1,3 @@
-## 　　Lesson28.　ワークフローをの分岐を統合する  
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/127758761-7c94eb45-9f6a-4b46-b184-761e03dab45a.png">
